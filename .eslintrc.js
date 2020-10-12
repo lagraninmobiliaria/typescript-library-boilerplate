@@ -2,7 +2,6 @@ const EXTENDS = [
   'airbnb-typescript',
   'prettier',
   'prettier/@typescript-eslint',
-  'eslint-plugin-node',
   'eslint-plugin-eslint-comments',
 ]
 
